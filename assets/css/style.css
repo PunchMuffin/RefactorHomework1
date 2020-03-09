@@ -199,8 +199,9 @@ p {
     font-size: 20px;
 }
 
-.nav{
+.header nav{
     display: block;
   float: right;
+  
     
 }
